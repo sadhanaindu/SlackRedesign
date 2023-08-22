@@ -1,4 +1,4 @@
-# How To Improve the UI of Slack
+# PROJECT: How To Improve the UI of Slack
 
 ## Here is the link to the Figma prototype:
 https://www.figma.com/file/pMiDz5kKu5fFF4AI7kYKGb/Slack-Redesign?type=design&node-id=0%3A1&mode=design&t=pWxwUM45Wcw3xoGV-1
